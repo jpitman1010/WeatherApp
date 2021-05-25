@@ -24,7 +24,6 @@ const App = () => {
     <>
       <Search />
       <StatusBar barStyle="dark-content" style={{backgroundColor:"blue", marginTop:10}}/>
-     <Text style={{marginTop:42, justifyContent:'center', alignItems:'center'}} >Hello World</Text>
     </>
   );
 };
